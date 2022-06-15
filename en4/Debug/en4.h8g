@@ -1,0 +1,4 @@
+-cpu=300HN
+-output="C:\WorkSpace\en4\en4\Debug\en4.lib"
+-head=runtime,new,stdio,stdlib
+-lang=c

@@ -1,0 +1,31 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"en4" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\en4\en4\en4.c" 
+"C:\WorkSpace\en4\en4\intprg.c" 
+"C:\WorkSpace\en4\en4\iodefine.h" 
+"C:\WorkSpace\en4\en4\led.c" 
+"C:\WorkSpace\en4\en4\led.h" 
+"C:\WorkSpace\en4\en4\resetprg.c" 
+"C:\WorkSpace\en4\en4\sbrk.c" 
+"C:\WorkSpace\en4\en4\timerA.c" 
+"C:\WorkSpace\en4\en4\timerA.h" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\en4\en4\en4.c" -8 -31 1340 508 1 0 
+"C:\WorkSpace\en4\en4\intprg.c" 156 156 1168 343 0 6 
+"C:\WorkSpace\en4\en4\iodefine.h" 0 0 1340 538 0 5 
+"C:\WorkSpace\en4\en4\led.c" 0 0 1340 508 0 4 
+"C:\WorkSpace\en4\en4\led.h" 78 78 1168 343 0 3 
+"C:\WorkSpace\en4\en4\resetprg.c" 0 0 1168 313 0 7 
+"C:\WorkSpace\en4\en4\sbrk.c" 26 26 1168 313 0 8 
+"C:\WorkSpace\en4\en4\timerA.c" 0 0 1340 538 0 2 
+"C:\WorkSpace\en4\en4\timerA.h" 26 26 1168 343 0 1 
+[LOADED_PROJECTS]
+"en4" 
+[END]
